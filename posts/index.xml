@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/myfirstblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/myfirstblog/</guid>
+      <description>
+        
+          
+            &lt;p&gt;# hello五湖四海的小伙伴们&lt;/p&gt;
+&lt;p&gt;这是我第一篇使用Hugo搭建的博客文章。&lt;/p&gt;
+&lt;p&gt;本次开源软件课程，我学习了静态网站工具Hugo的安装与使用，通过命令行创建站点、撰写Markdown博客。&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
